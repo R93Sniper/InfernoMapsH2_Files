@@ -1,5 +1,5 @@
-# Inferno Halo 2 Map Pack Files
-This repository is the source files for Inferno's Halo 2 Map Pack uploaded to steam. [You can find the map pack here](null)
+# "Inferno's Ancient Map Pack" (H2) Files
+This repository is the source files for The Halo 2 part of Inferno's Ancient Map Pack uploaded to steam. [You can find the map pack here](https://steamcommunity.com/sharedfiles/filedetails/?id=3416544279)
 
 These tags work with the Halo 2 MCC Editing Kit ONLY. It is not meant for use with Halo 2 Vista / Project Cartographer or Halo 2 Xbox!
 
@@ -25,5 +25,5 @@ If you wish to contribute to this repository (ie pruning excess tags, organizing
 
 Credits
 ----------------------------------------------------------------------------------------------
-**InfernoPlus** - Original Maps, Porting maps to MCC, Making the tags available </br>
-**R93_Sniper** -  Maintaining repository, emotional support, clerical duties
+**InfernoPlus** - Original Maps, Porting maps to MCC, Making the tags available. </br>
+**R93_Sniper** -  Maintaining repository, emotional support, clerical duties.
